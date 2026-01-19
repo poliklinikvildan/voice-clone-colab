@@ -1,6 +1,7 @@
 # voice-clone-colab-notebook
 
-Jupyter/Colab Python notebook for single-speaker voice cloning using Coqui XTTS v2 from WMV/MP4 files (CPU-friendly).
+Jupyter/Colab Python notebook for voice cloning using Coqui XTTS v2 from WMV/MP4 files (CPU-friendly).
+
 
 ---
 
@@ -8,4 +9,4 @@ Jupyter/Colab Python notebook for single-speaker voice cloning using Coqui XTTS 
 
 ---
 
-Colab notebook screenshot showing the XTTS v2 voice cloning workflow running on CPU in a Jupyter-like interface.
+Colab notebook screenshot showing the notebook `"XTTS_Clone_Colab.ipynb"` runs on **CPU runtime** in Colab.
